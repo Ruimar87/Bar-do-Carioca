@@ -81,3 +81,18 @@ Essa versão da história apresenta os artistas em seções separadas, detalhand
             </div>
         </div>
     </nav> -->
+
+
+
+
+
+    <div class="container-fluid">
+      
+    <p class="text-uppercase"><p class="fs-1">Descubra as 5 Bebidas Mais Potentes do Planeta!</p>
+  <img src="https://i2.wp.com/blog.webbar.com.br/wp-content/uploads/2024/08/904587.jpg?w=750" width="500"  height="500" alt="Bebidas">
+<p class="text-md-end">Se você acha que já conhece as 5 bebidas mais potentes do planeta, prepare-se para se surpreender! </p>
+<p class="text-md-end"> Primeiro, exploramos destilados que atingem níveis quase insanos de teor alcoólico. </p>
+<p class="text-lg-end">Agora, vamos mergulhar ainda mais fundo no mundo dos extremos. Portanto, .</p>
+<p class="text-xl-end">segure-se e descubra mais cinco bebidas alcoólicas que realmente ultrapassam os limites.</p>
+<p class="text-lowercase"> </p>
+    </div>
