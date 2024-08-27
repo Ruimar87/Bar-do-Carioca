@@ -35,3 +35,49 @@ Quando você visitar o Bar do Carioca, lembre-se de que está pisando em um peda
 ---
 
 Essa versão da história apresenta os artistas em seções separadas, detalhando suas contribuições e a importância de cada um para o desenvolvimento do samba carioca no contexto fictício do Bar do Carioca. Se precisar de mais ajustes ou detalhes, é só avisar!
+
+
+
+
+--------------------------------------------------------------------------------------------------------------
+#antigo nav bar
+
+
+    <!-- <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid" >
+            <a class ="navbar-brand" href="#" >  Boteco Carioca </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <div class="container-fluid">
+                    <ul class="nav justify-content-center">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="#">Home</a>
+                        </li>
+                    <li class="nav-item">
+                            <a class="nav-link" href="#">Eventos</a>
+                        </li>
+                    <li class="nav-item">
+                            <a class="nav-link" href="cardapio.html">Cardápio</a>
+                        </li>
+                    <li class="nav-item">
+                            <a class="nav-link" href="blog.html">Blog</a>
+                        </li>
+                    <li class="nav-item">
+                            <a class="nav-link" href="#">Contatos</a>
+                        </li>
+                    <li class="nav-item">
+                            <a class="nav-link" href="sobre.html">Sobre</a>
+                        </li>
+                    </ul>
+                </div>
+                <form class="d-flex justify-content-center" role="search">
+                    <input class="form-control me-2" type="search" placeholder="Bebidas&Petiscos" aria-label="Bebidas">
+                    <button class="btn btn-outline-success" type="submit">Pesquisar</button>
+                </form>
+            </div>
+        </div>
+    </nav> -->
